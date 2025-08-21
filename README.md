@@ -72,22 +72,22 @@ The application maintains a roster of students in a course, processes student da
 
 The program outputs a formatted roster of students, average course days, invalid emails, and filtered lists by degree program. Example:  
 
-Course: C++ Roster Project
-Language: C++
-Student ID: [Your WGU ID]
-Name: [Your Name]
-Displaying all students:
-A1 First Name: John Last Name: Smith Age: 20 daysInCourse: {30, 35, 40} Degree Program: SECURITY
-...
-Displaying invalid emails:
-John1989@gm ail.com
-Erickson_1990@gmailcom
-The_lawyer99yahoo.com
-Average days in course for each student:
-Student A1: 35
-...
-Printing students in SOFTWARE program:
-A3, A5
+Course: C++ Roster Project\
+Language: C++\
+Student ID: XXXXXXXXXXX\
+Name: Brattynn Thompson\
+Displaying all students:\
+A1 First Name: John Last Name: Smith Age: 20 daysInCourse: {30, 35, 40} Degree Program: SECURITY\
+...\
+Displaying invalid emails:\
+John1989@gm ail.com\
+Erickson_1990@gmailcom\
+The_lawyer99yahoo.com\
+Average days in course for each student:\
+Student A1: 35\
+...\
+Printing students in SOFTWARE program:\
+A3, A5\
 
 
 ---
