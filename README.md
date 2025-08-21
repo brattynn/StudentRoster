@@ -87,7 +87,7 @@ Average days in course for each student:\
 Student A1: 35\
 ...\
 Printing students in SOFTWARE program:\
-A3, A5\
+A3, A5
 
 
 ---
